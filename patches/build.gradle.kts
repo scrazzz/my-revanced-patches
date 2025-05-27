@@ -1,13 +1,19 @@
-group = "app.revanced"
+group = "app.scruz"
 
 patches {
     about {
-        name = "ReVanced Patches template"
-        description = "Patches template for ReVanced"
-        source = "git@github.com:revanced/revanced-patches-template.git"
-        author = "ReVanced"
-        contact = "contact@revanced.app"
+        name = "Scruz Revanced Patches"
+        description = "Patches for Revanced by scruz"
+        source = "git@github.com:scrazzz/my-revanced-patches.git"
+        author = "scrazzz"
+        contact = "@scruzism"
         website = "https://revanced.app"
         license = "GNU General Public License v3.0"
+    }
+}
+
+kotlin {
+    compilerOptions {
+        freeCompilerArgs = listOf("-Xcontext-receivers")
     }
 }
