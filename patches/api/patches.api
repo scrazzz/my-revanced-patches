@@ -2,6 +2,10 @@ public final class app/revanced/patches/azscreenrecorder/UnlockVipPatchKt {
 	public static final fun getUnlockVipPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
 
+public final class app/revanced/patches/developerassistant/ProLicensePatchKt {
+	public static final fun getProLicensePatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
 public final class app/revanced/patches/shared/misc/extension/ExtensionHook {
 	public final fun invoke (Lapp/revanced/patcher/patch/BytecodePatchContext;Ljava/lang/String;)V
 }
