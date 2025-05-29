@@ -5,8 +5,8 @@ import app.revanced.util.returnEarly
 
 @Suppress("unused")
 val unlockVipPatch = bytecodePatch(
-    name = "Unlock Pro Option",
-    description = "Unlocks the option labelled as 'Pro'",
+    name = "Unlock AZ Screen Recorder VIP patch",
+    description = "Unlocks the option labelled as 'Pro' in AZ Screen Recorder",
 ) {
     compatibleWith("com.hecorat.screenrecorder.free"("6.4.3"))
 

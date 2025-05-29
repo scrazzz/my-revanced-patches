@@ -1,12 +1,11 @@
 package app.revanced.patches.scrl
 
-import app.revanced.patcher.extensions.InstructionExtensions.replaceInstructions
 import app.revanced.patcher.patch.bytecodePatch
 import app.revanced.util.returnEarly
 
 @Suppress("unused")
 val unlockPremiumPatch = bytecodePatch(
-    name = "Unlock Premium"
+    name = "Unlock SCRL Premium patch"
 ) {
     compatibleWith("com.appostrophe.scrl")
 
