@@ -1,3 +1,10 @@
+# 1.0.0-dev.1 (2025-05-29)
+
+
+### Features
+
+* **SCRL:** Unlock Premium Patch ([45adeb9](https://github.com/scrazzz/my-revanced-patches/commit/45adeb93a6c765fa7293e1bbd897ff1096d44d6a))
+
 ## [1.0.4](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.3...v1.0.4) (2024-11-05)
 
 ## [1.0.4-dev.2](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.4-dev.1...v1.0.4-dev.2) (2024-11-05)
