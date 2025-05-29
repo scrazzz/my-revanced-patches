@@ -35,6 +35,7 @@
 - AZ Screen Recorder
 - Sponge
 - Developer Assistant
+- Solid Explorer
 
 ### 📙 Contributing
 
