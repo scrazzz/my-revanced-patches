@@ -1,3 +1,10 @@
+# 1.0.0 (2025-05-29)
+
+
+### Features
+
+* **README:** Update README.md ([de25eaa](https://github.com/scrazzz/my-revanced-patches/commit/de25eaa9d241476b7e061af0eeb9a561ba30bd06))
+
 # 1.0.0-dev.1 (2025-05-29)
 
 
