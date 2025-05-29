@@ -6,6 +6,10 @@ public final class app/revanced/patches/developerassistant/ProLicensePatchKt {
 	public static final fun getProLicensePatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
 
+public final class app/revanced/patches/scrl/UnlockPremiumPatchKt {
+	public static final fun getUnlockPremiumPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
 public final class app/revanced/patches/shared/misc/extension/ExtensionHook {
 	public final fun invoke (Lapp/revanced/patcher/patch/BytecodePatchContext;Ljava/lang/String;)V
 }
