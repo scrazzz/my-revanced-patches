@@ -5,7 +5,7 @@ import app.revanced.patcher.patch.bytecodePatch
 
 @Suppress("unused")
 val ProLicensePatch = bytecodePatch(
-    name = "Unlock Pro License"
+    name = "Unlock Developer Assistant Pro License patch"
 ) {
     compatibleWith("com.appsisle.developerassistant"("1.2.2"))
 
