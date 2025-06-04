@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/scrazzz/my-revanced-patches/compare/v1.1.0...v1.1.1) (2025-06-04)
+
+
+### Bug Fixes
+
+* update readme ([6a1c507](https://github.com/scrazzz/my-revanced-patches/commit/6a1c50790b008a4821c6520d868f40ef7b5ca028))
+
 # [1.1.0](https://github.com/scrazzz/my-revanced-patches/compare/v1.0.0...v1.1.0) (2025-06-04)
 
 
