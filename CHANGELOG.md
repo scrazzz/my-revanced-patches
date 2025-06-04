@@ -1,3 +1,11 @@
+# [1.1.0-dev.1](https://github.com/scrazzz/my-revanced-patches/compare/v1.0.0...v1.1.0-dev.1) (2025-06-04)
+
+
+### Features
+
+* **SCRL:** Unlock Premium Patch ([45adeb9](https://github.com/scrazzz/my-revanced-patches/commit/45adeb93a6c765fa7293e1bbd897ff1096d44d6a))
+* **Solid Explorer:** Unlock full verion patch ([044c5ad](https://github.com/scrazzz/my-revanced-patches/commit/044c5ad0bfc58f7f658fdefdf54f810ebf05609c))
+
 # [1.0.0-dev.2](https://github.com/scrazzz/my-revanced-patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2025-05-29)
 
 
