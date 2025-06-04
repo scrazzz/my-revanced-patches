@@ -36,6 +36,7 @@
 - Sponge
 - Developer Assistant
 - Solid Explorer
+- SCRL
 
 ### 📙 Contributing
 
