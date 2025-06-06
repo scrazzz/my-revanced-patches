@@ -1,3 +1,11 @@
+# [1.1.0-dev.2](https://github.com/scrazzz/my-revanced-patches/compare/v1.1.0-dev.1...v1.1.0-dev.2) (2025-06-06)
+
+
+### Bug Fixes
+
+* update patch names ([2aa4482](https://github.com/scrazzz/my-revanced-patches/commit/2aa4482e05bddf7e0523aa97e5377e8d35ea1ba8))
+* update readme ([6a1c507](https://github.com/scrazzz/my-revanced-patches/commit/6a1c50790b008a4821c6520d868f40ef7b5ca028))
+
 # [1.1.0-dev.1](https://github.com/scrazzz/my-revanced-patches/compare/v1.0.0...v1.1.0-dev.1) (2025-06-04)
 
 
