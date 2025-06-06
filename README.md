@@ -32,7 +32,7 @@
 
 
 ## 🚀 Available Patches
-- AZ Screen Recorder
+- AZ Screen Recorder (6.4.3)
 - Sponge
 - Developer Assistant (1.2.2)
 - Solid Explorer
