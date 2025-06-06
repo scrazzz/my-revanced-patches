@@ -38,11 +38,6 @@
 - Solid Explorer
 - SCRL
 
-### 📙 Contributing
-
-Thank you for considering contributing to ReVanced Patches template.  
-You can find the contribution guidelines [here](CONTRIBUTING.md).
-
 ### 🛠️ Building
 
 To build ReVanced Patches template,
