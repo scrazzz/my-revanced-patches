@@ -34,7 +34,7 @@
 ## 🚀 Available Patches
 - AZ Screen Recorder
 - Sponge
-- Developer Assistant
+- Developer Assistant (1.2.2)
 - Solid Explorer
 - SCRL
 
