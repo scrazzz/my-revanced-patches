@@ -5,7 +5,7 @@ import app.revanced.util.returnEarly
 
 @Suppress("unused")
 val UnlockFullVersionPatch = bytecodePatch(
-    name = "Unlock full version patch",
+    name = "Unlock Solid Explorer full version patch",
     description = "Unlock Solid Explorer full version + remove ads."
 ) {
     compatibleWith("pl.solidexplorer2")
