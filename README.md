@@ -31,10 +31,10 @@
 ![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
 
 
-## 🚀 Available Patches for Apps
-- AZ Screen Recorder
-- Sponge
-- Developer Assistant
+## 🚀 Available Patches
+- AZ Screen Recorder (6.4.3)
+- Sponge (any)
+- Developer Assistant (1.2.2)
 - Solid Explorer
 - SCRL
 
